@@ -6,10 +6,10 @@ let url_base = 'https://playground.4geeks.com/apis/fake/todos/user/gabriel'
 // Que hace mi aplicacion?
 
 // 1- Traerse todas las tareas guardadas en db (API) --> no existe estatus 404  READY
-// 2- Crear usuario  
-// 3- guarda tareas  
-// 4- borrar tareas cuando le doy click  
-// 5- Eliminar usuario con todas las tareas
+// 2- Crear usuario  READY
+// 3- guarda tareas  READY
+// 4- borrar tareas cuando le doy click  READY
+// 5- Eliminar usuario con todas las tareas READY
 
 //create your first component
 const Home = () => {
